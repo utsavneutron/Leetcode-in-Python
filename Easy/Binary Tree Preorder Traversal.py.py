@@ -1,5 +1,5 @@
 # Recursive Approach
-def preorderTraversal(self,node):
+def preorderTraversal(self,root):
     res = []
 
     def preorder(node):
