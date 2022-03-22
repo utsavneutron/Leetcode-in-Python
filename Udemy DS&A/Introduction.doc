@@ -1,0 +1,41 @@
+Data Structure
+-----------------------------------
+Different ways of organizing data on your computer, that can be used effectively.
+
+Queue - FIFO
+Stack - Organizing books
+
+Algorithm
+------------------------------------
+Set of steps to complete a task
+
+Criteria
+1) Correctness
+2) Efficiency
+
+Why Companies ask
+---------------------------------------
+Arranging book in library = Data Structure
+Process to find the book = Algorithm
+
+- Checks problem solving skills
+- Fundamental concepts of programming in limited time
+
+Types of Data Structure
+----------------------------------------
+Primitive - Inetger, Float, Character, String, Boolean
+Non Primitive
+    - Linear
+        - Static = Array
+        - Dynamic = Linked List, Stack, Queue
+    - Non Linear = Tree, Graph
+
+Types of Algorithm
+------------------------------------------
+- Simple Recursive Algorithm
+- Divide and Conquer = Contains two recursion
+- Dynamic Programming Algorithm = Based on memoization
+- Greedy Algorithm = Choosing local optimal solution
+- Brute Force Algorithm = Tries all possibilities until a satisfactory solution is found
+- Randomized Algorithm = Uses a random number at least once during the computation to make a decision
+
